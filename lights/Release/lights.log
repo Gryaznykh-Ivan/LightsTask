@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\arool\source\repos\lights\lights\main.cpp(27,27): warning C4554: ">>": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 107 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  lights.vcxproj -> C:\Users\arool\source\repos\lights\Release\lights.exe
